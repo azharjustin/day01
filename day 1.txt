@@ -1,0 +1,14 @@
+2.Write a blog on Difference between HTTP1.1 vs HTTP2
+ 
+ *http2 is much faster and more reliable than http1.1, http1.1 loads single request for every tcp connection while http2 avoids network delay
+by using multiple.http is a network delay sensitive protocol in the sense that if there is lessnetwork delay, then the page loads faster.
+
+3.Write a blog about objects and its internal representation in Javascript
+
+ * object is an unordered collection of key-value pairs. Each key-value pair is called a property.
+
+The key of a property can be a string and the value of a property can be any valid JavaScript value e.g., a string, a number, an array, and even a function.
+ 
+ *Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript. These objects are quite different from 
+JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all 
+store a single value each (depending on their types)
